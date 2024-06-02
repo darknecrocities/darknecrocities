@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @darknecrocities
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python, Java etc
+- 👋 Hi, I’m Arron Kian Parejas
+- 👀 I’m interested in Software Development, Data analytic, and Data Engineering
+- 🌱 I’m currently learning Coble, Rust and API
 - 💞️ I’m looking to collaborate on Google, Meta, Microsoft
 - 📫 How to reach me send me email in parejasarronkian@gmail.com
 
