@@ -1,4 +1,5 @@
 👋 Hello, I’m Arron Kian Parejas
+[Pixel Art](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVoMnZ0YWt3eXJucjFiMzUwNmJ1ZWlkZTltd3Y2M2phaXVyZDA1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KWKsrHAJw4pdZwRRrU/giphy.webp)
 
 I'm a passionate Software Developer and Data Enthusiast. I dive deep into the realms of Data Analytics and Data Engineering to craft solutions that make a difference.
 
