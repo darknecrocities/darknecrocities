@@ -12,6 +12,9 @@ I'm a passionate **Software Developer** and **Data Enthusiast**. I dive deep int
 - **Software Development**: Building and optimizing systems that scale.
 - **Data Science**: Analyzing data to extract meaningful insights.
 - **Data Engineering**: Designing and implementing robust data architectures.
+- **AI and Machine Learning**: Building and deploying scalable models and intelligent systems.
+- **Software Engineering**: Designing and developing reliable and efficient software systems.
+- **Full Stack Development**: Building and maintaining end-to-end web applications with expertise in both front-end and back-end technologies.
 
 ## 🌍 Let’s Connect
 - Open to collaborations with **Google**, **Meta**, **Microsoft**, and other leading tech innovators.
