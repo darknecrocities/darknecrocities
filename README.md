@@ -39,18 +39,19 @@ I'm a passionate **Software Developer** and **Data Enthusiast**. I dive deep int
 Here are some of the languages and technologies I've worked with:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <span style="background-color: #306998; color: white; padding: 5px 10px; border-radius: 15px;">Python</span>
-  <span style="background-color: #007396; color: white; padding: 5px 10px; border-radius: 15px;">Java</span>
-  <span style="background-color: #6F4F37; color: white; padding: 5px 10px; border-radius: 15px;">Assembly</span>
-  <span style="background-color: #00599C; color: white; padding: 5px 10px; border-radius: 15px;">C++</span>
-  <span style="background-color: #F29111; color: white; padding: 5px 10px; border-radius: 15px;">SQL</span>
-  <span style="background-color: #F16529; color: white; padding: 5px 10px; border-radius: 15px;">HTML</span>
-  <span style="background-color: #F7DF1E; color: black; padding: 5px 10px; border-radius: 15px;">JavaScript</span>
-  <span style="background-color: #701516; color: white; padding: 5px 10px; border-radius: 15px;">Ruby</span>
-  <span style="background-color: #1572B6; color: white; padding: 5px 10px; border-radius: 15px;">CSS</span>
-  <span style="background-color: #FF6F00; color: white; padding: 5px 10px; border-radius: 15px;">TensorFlow</span>
-  <span style="background-color: #FF7F0E; color: white; padding: 5px 10px; border-radius: 15px;">Kaggle</span>
+  <span style="background-color: #306998; color: white; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">Python</span>
+  <span style="background-color: #007396; color: white; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">Java</span>
+  <span style="background-color: #6F4F37; color: white; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">Assembly</span>
+  <span style="background-color: #00599C; color: white; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">C++</span>
+  <span style="background-color: #F29111; color: white; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">SQL</span>
+  <span style="background-color: #F16529; color: white; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">HTML</span>
+  <span style="background-color: #F7DF1E; color: black; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">JavaScript</span>
+  <span style="background-color: #701516; color: white; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">Ruby</span>
+  <span style="background-color: #1572B6; color: white; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">CSS</span>
+  <span style="background-color: #FF6F00; color: white; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">TensorFlow</span>
+  <span style="background-color: #FF7F0E; color: white; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">Kaggle</span>
 </div>
+
 
 ### Contributions and Activity Graph
 
