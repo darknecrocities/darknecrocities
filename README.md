@@ -30,34 +30,17 @@ I'm a passionate **Software Developer** and **Data Enthusiast**. I dive deep int
 
 ### Contributions and Activity Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=darknecrocities&theme=dracula)
+![GitHub Contributions Graph](https://github-readme-activity-graph.cyclic.app/graph?username=darknecrocities&theme=dracula)
 
 ---
 
 ### Recent GitHub Contributions
 
-<!-- Shows the latest repos you've contributed to -->
-[![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=darknecrocities&theme=dark)](https://github.com/darknecrocities)
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=darknecrocities&theme=dark)
 
 ---
 
 ### Profile Views Count
 
-<!-- Add a counter to track how many views your profile gets -->
 ![Profile Views](https://komarev.com/ghpvc/?username=darknecrocities&color=brightgreen)
-
----
-
-### GitHub Metrics Dashboard
-
-<!-- A more detailed metric dashboard with various insights -->
-![Metrics](https://metrics.lecoq.io/darknecrocities?template=classic&isocalendar=1&languages=1&stars=1&habits=1&activity=1&code=1&notable=1&repositories=1&people=1&achievements=1&code=1&followup=1&projects=1&repositories=1&achievements=1&pagespeed=1&repositories=1&isocalendar.duration=half-year&config.timezone=Asia%2FManila)
-
----
-
-### GitHub Commit History
-
-<!-- Commit activity broken down by month -->
-![GitHub Commit History](https://github-readme-activity-graph.vercel.app/graph?username=darknecrocities&theme=github)
-
 
