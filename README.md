@@ -16,3 +16,10 @@ I'm a passionate **Software Developer** and **Data Enthusiast**. I dive deep int
 ## 🌍 Let’s Connect
 - Open to collaborations with **Google**, **Meta**, **Microsoft**, and other leading tech innovators.
 - Reach out to me via email: [parejasarronkian@gmail.com](mailto:parejasarronkian@gmail.com)
+
+# Hi there, I'm Arron Kian Parejas! 👋
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=darknecrocities&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darknecrocities&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=darknecrocities&theme=highcontrast)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=darknecrocities&theme=onedark)
