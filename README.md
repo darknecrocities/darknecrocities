@@ -48,6 +48,10 @@ Here are some of the languages and technologies I've worked with:
 - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 - ![Kaggle](https://img.shields.io/badge/Kaggle-FF7F0E?style=for-the-badge&logo=kaggle&logoColor=white)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+- ![Gemini API](https://img.shields.io/badge/Gemini_API-0E3A8C?style=for-the-badge&logo=google&logoColor=white)
+- ![OpenAI API](https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=white)
+
 
 
 ### Contributions and Activity Graph
