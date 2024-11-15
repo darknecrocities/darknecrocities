@@ -25,12 +25,11 @@ I'm a passionate **Software Developer** and **Data Enthusiast**. I dive deep int
 ### GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=darknecrocities&show_icons=true&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=darknecrocities&theme=highcontrast)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=darknecrocities&theme=onedark)
 
 ---
-### All Languages Used
+### Most Languages Used
 
 ![All Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darknecrocities&layout=donut&theme=radical)
 
@@ -38,19 +37,17 @@ I'm a passionate **Software Developer** and **Data Enthusiast**. I dive deep int
 
 Here are some of the languages and technologies I've worked with:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <span style="background-color: #306998; color: white; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">Python</span>
-  <span style="background-color: #007396; color: white; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">Java</span>
-  <span style="background-color: #6F4F37; color: white; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">Assembly</span>
-  <span style="background-color: #00599C; color: white; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">C++</span>
-  <span style="background-color: #F29111; color: white; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">SQL</span>
-  <span style="background-color: #F16529; color: white; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">HTML</span>
-  <span style="background-color: #F7DF1E; color: black; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">JavaScript</span>
-  <span style="background-color: #701516; color: white; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">Ruby</span>
-  <span style="background-color: #1572B6; color: white; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">CSS</span>
-  <span style="background-color: #FF6F00; color: white; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">TensorFlow</span>
-  <span style="background-color: #FF7F0E; color: white; padding: 5px 10px; border-radius: 15px; font-weight: bold; font-size: 16px;">Kaggle</span>
-</div>
+- ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ![Assembly](https://img.shields.io/badge/Assembly-6F4F37?style=for-the-badge&logo=c&logoColor=white)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML-F16529?style=for-the-badge&logo=html5&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Ruby](https://img.shields.io/badge/Ruby-701516?style=for-the-badge&logo=ruby&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- ![Kaggle](https://img.shields.io/badge/Kaggle-FF7F0E?style=for-the-badge&logo=kaggle&logoColor=white)
 
 
 ### Contributions and Activity Graph
