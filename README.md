@@ -30,7 +30,7 @@ I'm a passionate **Software Developer** and **Data Enthusiast**. I dive deep int
 
 ### Contributions and Activity Graph
 
-![GitHub Contributions Graph](https://github-readme-activity-graph.cyclic.app/graph?username=darknecrocities&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darknecrocities&theme=react-dark&hide_border=true)
 
 ---
 
