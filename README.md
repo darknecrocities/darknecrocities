@@ -30,6 +30,9 @@ I'm a passionate **Software Developer** and **Data Enthusiast**. I dive deep int
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=darknecrocities&theme=onedark)
 
 ---
+### Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darknecrocities&layout=compact&theme=radical)
 
 ### Contributions and Activity Graph
 
