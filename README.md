@@ -29,6 +29,8 @@ I'm a passionate **Software Developer** and **Data Enthusiast**. I dive deep int
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=darknecrocities&theme=onedark)
 
 ---
+![Achievements](https://img.shields.io/badge/Trophies%20Earned-10-green)
+
 ### Most Languages Used
 
 ![All Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darknecrocities&layout=donut&theme=radical)
