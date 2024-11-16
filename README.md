@@ -39,7 +39,7 @@ I'm a passionate **Software Developer** and **Data Enthusiast**. I dive deep int
 
 Here are some of the languages and technologies I've worked with:
 
- <p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Assembly-6F4F37?style=for-the-badge&logo=c&logoColor=white" alt="Assembly"/>
@@ -58,9 +58,8 @@ Here are some of the languages and technologies I've worked with:
   <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/>
   <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/>
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut"/>
+  <img src="https://img.shields.io/badge/Cohere_API-5334C9?style=for-the-badge&logo=cohere&logoColor=white" alt="Cohere API"/>
 </p>
-
-
 
 
 ### Contributions and Activity Graph
