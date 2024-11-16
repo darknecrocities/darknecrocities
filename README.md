@@ -58,8 +58,6 @@ Here are some of the languages and technologies I've worked with:
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darknecrocities&theme=react-dark&hide_border=true)
 
----
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=darknecrocities)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Recent GitHub Contributions
 
