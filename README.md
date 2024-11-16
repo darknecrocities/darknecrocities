@@ -71,3 +71,8 @@ Here are some of the languages and technologies I've worked with:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=darknecrocities&color=brightgreen)
 
+---
+
+## Achievements on Github
+
+![Achievements](https://img.shields.io/badge/Trophies%20Earned-10-green)
