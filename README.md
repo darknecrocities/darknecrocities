@@ -23,7 +23,7 @@ I'm a passionate **Software Developer** and **Data Enthusiast**. I dive deep int
 ### GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=darknecrocities&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=darknecrocities&theme=highcontrast)
+[![GitHub Streak](https://streak-stats.demolab.com?user=darknecrocities&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=darknecrocities&theme=onedark)
 
 ---
