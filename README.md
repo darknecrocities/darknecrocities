@@ -20,8 +20,6 @@ I'm a passionate **Software Developer** and **Data Enthusiast**. I dive deep int
 - Open to collaborations with **Google**, **Meta**, **Microsoft**, and other leading tech innovators.
 - Reach out to me via email: [parejasarronkian@gmail.com](mailto:parejasarronkian@gmail.com)
 
-# Hi there, I'm Arron Kian Parejas! 👋
-
 ### GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=darknecrocities&show_icons=true&theme=radical)
