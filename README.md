@@ -9,7 +9,6 @@ I'm a passionate **Software Developer** and **Data Enthusiast**. I dive deep int
 - **Innovative Projects:** From data pipelines to dynamic applications, I'm always up for a challenge!
 
 ## 💡 I’m Interested In
-- **Software Development**: Building and optimizing systems that scale.
 - **Data Science**: Analyzing data to extract meaningful insights.
 - **Data Engineering**: Designing and implementing robust data architectures.
 - **AI and Machine Learning**: Building and deploying scalable models and intelligent systems.
