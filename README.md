@@ -2,7 +2,6 @@
 
 ![GitHub Banner](https://github.com/darknecrocities/darknecrocities/blob/main/githubBanner.png)
 
-
 I'm a passionate **Software Developer** and **Data Enthusiast**. I dive deep into the realms of **Data Analytics** and **Data Engineering** to craft solutions that make a difference
 
 ## 🔭 What I’m Exploring
