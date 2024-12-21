@@ -1,7 +1,4 @@
 # 👋 Hello, I’m Arron Kian Parejas
-## 🏆 My GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=darknecrocities&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ![GitHub Banner](https://github.com/darknecrocities/darknecrocities/blob/main/githubBanner.png)
 
