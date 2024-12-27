@@ -81,3 +81,5 @@ Here are some of the languages and technologies I've worked with:
 
 ## Achievements on Github
 ![Achievements](https://img.shields.io/badge/Trophies%20Earned-10-green)
+
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-orange?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/yourprofile)
