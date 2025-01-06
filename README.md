@@ -1,4 +1,5 @@
-# 👋 Hello, I’m Arron Kian Parejas
+<h1> 👋 Hello, 🧑‍💻 I’m Arron Kian Parejas</h1>
+
 
 
 ![GitHub Banner](https://github.com/darknecrocities/darknecrocities/blob/main/githubBanner.png)
