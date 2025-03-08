@@ -10,7 +10,6 @@ I'm a passionate Aspiring **Software Engineering** and **Data Enthusiast**. I di
 
 
 
- 
 ## 💡 I’m Interested In
 - **Data Science**: Analyzing data to extract meaningful insights.
 - **Data Engineering**: Designing and implementing robust data architectures.
