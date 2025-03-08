@@ -8,6 +8,7 @@ I'm a passionate Aspiring **Software Engineering** and **Data Enthusiast**. I di
 - **Innovative Projects:** From data pipelines to dynamic applications, I'm always up for a challenge!
 
 
+
  
 
 ## 💡 I’m Interested In
