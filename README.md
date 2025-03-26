@@ -22,7 +22,8 @@ I'm a passionate Aspiring **Software Engineering** and **Data Enthusiast**. I di
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=darknecrocities&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=darknecrocities)](https://git.io/streak-stats)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=darknecrocities&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=darknecrocities&theme=onedark&cache=none)
+
 
 ---
 ![Achievements](https://img.shields.io/badge/Trophies%20Earned-10-green)
