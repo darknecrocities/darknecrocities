@@ -21,6 +21,7 @@ I'm a passionate Aspiring **Software Engineering** and **Data Enthusiast**. I di
 ### GitHub Stats 📈
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=darknecrocities&show_icons=true&theme=radical)
+## Github Streak 🔥
 [![GitHub Streak](https://streak-stats.demolab.com/?user=darknecrocities)](https://git.io/streak-stats)
 
 ## Github Rank Stats 🏆 
