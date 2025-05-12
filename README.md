@@ -1,7 +1,7 @@
 <h1>👋 Hello, 🧑‍💻 I’m Arron Kian Parejas</h1>
 
 ![GitHub Banner](https://github.com/darknecrocities/darknecrocities/blob/main/githubBanner.png)
-I'm a passionate Aspiring **Software Engineering** and **Data Enthusiast**. I dive deep into the realms of **Data Analytics** and **Data Engineering** to craft solutions that make a differencej
+I'm a passionate Aspiring **Software Engineering** and **Data Enthusiast**. I dive deep into the realms of **Data Analytics** and **Data Engineering** to craft solutions that make a difference
 
 
 
