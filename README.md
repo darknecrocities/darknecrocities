@@ -27,7 +27,7 @@ I'm a passionate aspiring **Software Engineer** and **Data Enthusiast**. I dive 
 |:------:|:----:|:--------:|:--------:|
 |  22x   | 14x  |   4x     |    🥇2x   |
 
-**🔥 Overall Placement Rate:** `85%`  
+**🔥 Overall Placement Rate:** `87%`  
 (Placed in 18 out of 22 hackathons)
 
 ---
