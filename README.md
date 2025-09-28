@@ -3,8 +3,6 @@
 ![GitHub Banner](https://github.com/darknecrocities/darknecrocities/blob/main/githubBanner.png)
 
 I'm a passionate aspiring **Software Engineer** and **Data Enthusiast**. I dive deep into the realms of **Data Analytics** and **Data Engineering** to craft solutions that make a difference.
-
-
 ---
 
 ## 🔭 What I’m Exploring
@@ -25,7 +23,7 @@ I'm a passionate aspiring **Software Engineer** and **Data Enthusiast**. I dive 
 ## 🏆 Hackathon Stats
 | Joined | Wins | Finalist | Champion |
 |:------:|:----:|:--------:|:--------:|
-|  22x   | 14x  |   4x     |    🥇2x   |
+|  22x   | 15x  |   4x     |    🥇2x   |
 
 **🔥 Overall Placement Rate:** `87%`  
 (Placed in 18 out of 22 hackathons)
