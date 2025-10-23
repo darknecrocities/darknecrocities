@@ -9,7 +9,6 @@ I'm a passionate aspiring **Software Engineer** and **Data Enthusiast**. I dive 
 - **Programming Languages:** Sharpening skills in **Cobol**, **Rust**, and **API Development**
 - **Innovative Projects:** From data pipelines to dynamic applications — always up for a challenge!
 
-
 ---
 
 ## 💡 I’m Interested In
