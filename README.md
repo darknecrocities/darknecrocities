@@ -20,6 +20,9 @@ I'm a passionate aspiring **Software Engineer** and **Data Enthusiast**. I dive 
 
 ---
 
+## 🥇 Top Github User PH
+[![committers.top badge](https://user-badge.committers.top/philippines_public/darknecrocities.svg)](https://user-badge.committers.top/philippines_public/darknecrocities)
+
 ## 🏆 Hackathon Stats
 | Joined | Wins | Finalist | Champion |
 |:------:|:----:|:--------:|:--------:|
