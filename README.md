@@ -27,10 +27,10 @@ I'm a passionate aspiring **Software Engineer** and **Data Enthusiast**. I dive 
 ## 🏆 Hackathon Stats
 | Joined | Wins | Finalist | Champion |
 |:------:|:----:|:--------:|:--------:|
-|  23x   | 14x  |   5x     |    🥇3x   |
+|  24x   | 15x  |   6x     |    🥇4x   |
 
 **🔥 Overall Placement Rate:** `87%`  
-(Placed in 17 out of 22 hackathons)
+(Placed in 19 out of 24 hackathons)
 
 ---
 
