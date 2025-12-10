@@ -1,41 +1,39 @@
-# 👋 Hello, 🧑‍💻 I’m Arron Kian Parejas
+# 👋 Hello, I'm **Arron Kian Parejas**
 
 ![GitHub Banner](https://github.com/darknecrocities/darknecrocities/blob/main/githubBanner.png)
 
-
-I'm a passionate aspiring **Software Engineer**, **AI/ML Engineer** and **Data Enthusiast**. I dive deep into the realms of **Data Analytics** and **Data Engineering** to craft solutions that make a difference.
----
-## 🔭 What I’m Exploring
-- **Programming Languages:** Sharpening skills in **Cobol**, **Rust**, and **API Development**
-- **Innovative Projects:** From data pipelines to dynamic applications — always up for a challenge!
+I am a **Software Engineer**, **AI/ML Engineer**, and **Data Engineer** dedicated to building high-impact systems across analytics, automation, and full-stack development. I specialize in transforming data into intelligence, crafting scalable architectures, and engineering solutions that push boundaries.
 
 ---
 
-## 💡 I’m Interested In
-- **Data Science**: Extracting insights from data
-- **Data Engineering**: Building robust, scalable data systems
-- **AI & Machine Learning**: Deploying intelligent solutions
-- **Software Engineering**: Crafting scalable software systems
-- **Full Stack Development**: Creating complete web solutions
+## 🚀 What I Do
+- **Software Engineering** — building secure, scalable, production-grade applications  
+- **AI/ML Engineering** — deploying intelligent models and automation systems  
+- **Data Engineering** — designing pipelines, ETL systems, and cloud-based data workflows  
+- **Full-Stack Development** — creating complete, performance-driven web apps  
+- **Cloud & DevOps** — delivering modern infrastructure using AWS, GCP, and containerized systems  
 
 ---
 
-## 🥇 Top Github User PH
+## 🥇 Top GitHub User (PH)
 [![committers.top badge](https://user-badge.committers.top/philippines_public/darknecrocities.svg)](https://user-badge.committers.top/philippines_public/darknecrocities)
 
-## 🏆 Hackathon Stats
+---
+
+## 🏆 Hackathon Performance
 | Joined | Wins | Finalist | Champion |
 |:------:|:----:|:--------:|:--------:|
-|  25x   | 15x  |   14x     |    🥇6x   |
+|  25x   | 15x  |   14x    |   🥇6x    |
 
 **🔥 Overall Placement Rate:** `87%`  
-(Placed in 19 out of 24 hackathons)
+Consistently placing in competitive national tech events.
 
 ---
 
-## 🌍 Let’s Connect
-- 💬 Collaborating with **Google**, **Meta**, **Microsoft** is my dream!
-- 📧 Reach me: [parejasarronkian@gmail.com](mailto:parejasarronkian@gmail.com)
+## 🌍 Connect With Me
+- Always open to collaboration and large-scale engineering projects  
+- Dream partners: **Google**, **Meta**, **Microsoft**  
+- 📧 Email: **parejasarronkian@gmail.com**
 
 ---
 
@@ -46,21 +44,20 @@ I'm a passionate aspiring **Software Engineer**, **AI/ML Engineer** and **Data E
 
 ---
 
-## 🔥 GitHub Streak
-
+## 🔥 Contribution Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=darknecrocities&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ## 🏅 GitHub Trophies
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=darknecrocities&theme=onedark&margin-w=10&no-bg=true)
 
 ---
 
-## 👨‍💻 Technologies I've Worked With
+## 👨‍💻 Tech Stack & Tools
 
 <p align="center">
+
   <!-- Core Languages -->
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -137,22 +134,18 @@ I'm a passionate aspiring **Software Engineer**, **AI/ML Engineer** and **Data E
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
 </p>
 
-
-
 ---
 
-## 📈 GitHub Contribution Activity
-
+## 📈 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darknecrocities&theme=react-dark&hide_border=true)
 
 ---
 
-## 🙋‍♂️ Profile Views
-
+## 👁️ Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=darknecrocities&color=brightgreen)
 
 ---
 
 ## 🏆 Achievements
-
 ![Trophies](https://img.shields.io/badge/Trophies%20Earned-10-green)
+
