@@ -58,8 +58,8 @@ Consistently placing in competitive national tech events.
 
 ## 👨‍💻 Tech Stack & Tools
 
-<p align="center">
   ### Core Languages
+  <p align="center">
   <!-- Core Languages -->
   <p align="center">
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
