@@ -2,7 +2,6 @@
 
 ![GitHub Banner](https://github.com/darknecrocities/darknecrocities/blob/main/githubBanner.png)
 
-
 I am a **Software Engineer**, **AI/ML Engineer**, and **Data Engineer** dedicated to building high-impact systems across analytics, automation, and full-stack development. I specialize in transforming data into intelligence, crafting scalable architectures, and engineering solutions that push boundaries.
 
 ---
