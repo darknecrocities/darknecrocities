@@ -5,6 +5,7 @@
 I am a **Software Engineer**, **AI/ML Engineer**, and **Data Engineer** dedicated to building high-impact systems across analytics, automation, and full-stack development. I specialize in transforming data into intelligence, crafting scalable architectures, and engineering solutions that push boundaries.
 ---
 
+
 ## 🚀 What I Do
 - **Software Engineering** — building secure, scalable, production-grade applications  
 - **AI/ML Engineering** — deploying intelligent models and automation systems  
