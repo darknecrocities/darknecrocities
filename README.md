@@ -7,7 +7,6 @@ I am a **Software Engineer**, **AI/ML Engineer**, and **Data Engineer** dedicate
 
 
 
-
 ## 🚀 What I Do
 - **Software Engineering** — building secure, scalable, production-grade applications  
 - **AI/ML Engineering** — deploying intelligent models and automation systems  
