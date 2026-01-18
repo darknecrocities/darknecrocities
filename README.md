@@ -24,7 +24,7 @@ I am a **Software Engineer**, **AI/ML Engineer**, and **Data Engineer** dedicate
 ## 🏆 Hackathon Performance
 | Joined | Wins | Finalist | Champion |
 |:------:|:----:|:--------:|:--------:|
-|  25x   | 15x  |   14x    |   🥇6x    |
+|  25x   | 15x  |   14x    |   🥇5x    |
 
 **🔥 Overall Placement Rate:** `87%`  
 Consistently placing in competitive national tech events.
