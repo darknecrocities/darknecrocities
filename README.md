@@ -10,7 +10,6 @@ I am a **Software Engineer**, **AI/ML Engineer**, and **Data Engineer** dedicate
 - **AI/ML Engineering** — deploying intelligent models and automation systems  
 - **Data Engineering** — designing pipelines, ETL systems, and cloud-based data workflows  
 - **Full-Stack Development** — creating complete, performance-driven web apps  
-- **Cloud & DevOps** — delivering modern infrastructure using AWS, GCP, and containerized systems  
 
 ---
 
@@ -30,8 +29,7 @@ Consistently placing in competitive national tech events.
 ---
 
 ## 🌍 Connect With Me
-- Always open to collaboration and large-scale engineering projects  
-- Dream partners: **Google**, **Meta**, **Microsoft**  
+- Always open to collaboration and large-scale engineering projects   
 - 📧 Email: **parejasarronkian@gmail.com**
 
 ---
