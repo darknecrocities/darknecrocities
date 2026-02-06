@@ -51,7 +51,7 @@ I am a **Software Engineer**, **AI/ML Engineer**, and **Data Engineer** dedicate
 |    25x     |   15x   |     14x     |     🥇5x     |
 
 ### 🔥 Overall Placement Rate: `87%`
-> _Consistently placing in competitive national tech events._
+> _Consistently placing in competitive national and world level tech events._
 
 </div>
 
