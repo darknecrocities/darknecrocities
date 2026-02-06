@@ -1,60 +1,91 @@
-# 👋 Hello, I'm **Arron Kian Parejas**
+<div align="center">
 
-![GitHub Banner](https://github.com/darknecrocities/darknecrocities/blob/main/githubBanner.png)
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arron%20Kian%20Parejas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI/ML%20Engineer%20%7C%20Data%20Engineer&descSize=18&descAlignY=52&descColor=fff" width="100%" />
+
+<!-- BANNER -->
+<img src="https://github.com/darknecrocities/darknecrocities/blob/main/githubBanner.png" width="100%" />
+
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%94%A5+Turning+Data+Into+Intelligence;%E2%9A%A1+Engineering+Systems+That+Push+Boundaries;%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+[![Email](https://img.shields.io/badge/Email-parejasarronkian%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parejasarronkian@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-darknecrocities-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darknecrocities)
+[![Profile Views](https://komarev.com/ghpvc/?username=darknecrocities&style=for-the-badge&color=blueviolet)](https://github.com/darknecrocities)
+
+</div>
+
+<!-- WAVE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 I am a **Software Engineer**, **AI/ML Engineer**, and **Data Engineer** dedicated to building high-impact systems across analytics, automation, and full-stack development. I specialize in transforming data into intelligence, crafting scalable architectures, and engineering solutions that push boundaries.
----
 
+- 🔭 **Software Engineering** — building secure, scalable, production-grade applications
+- 🤖 **AI/ML Engineering** — deploying intelligent models and automation systems
+- 📊 **Data Engineering** — designing pipelines, ETL systems, and cloud-based data workflows
+- 🌐 **Full-Stack Development** — creating complete, performance-driven web apps
+- 💬 Always open to **collaboration** and large-scale engineering projects
 
+<br clear="both"/>
 
-## 🚀 What I Do
-- **Software Engineering** — building secure, scalable, production-grade applications  
-- **AI/ML Engineering** — deploying intelligent models and automation systems  
-- **Data Engineering** — designing pipelines, ETL systems, and cloud-based data workflows  
-- **Full-Stack Development** — creating complete, performance-driven web apps  
+<!-- WAVE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
 
----
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Top GitHub User (PH) & Hackathon Performance
 
+<div align="center">
 
-## 🥇 Top GitHub User (PH)
 [![committers.top badge](https://user-badge.committers.top/philippines_public/darknecrocities.svg)](https://user-badge.committers.top/philippines_public/darknecrocities)
 
----
+<br/>
 
-## 🏆 Hackathon Performance
-| Joined | Wins | Finalist | Champion |
-|:------:|:----:|:--------:|:--------:|
-|  25x   | 15x  |   14x    |   🥇5x    |
+| 🏟️ Joined | 🏆 Wins | 🥈 Finalist | 🥇 Champion |
+|:----------:|:-------:|:-----------:|:------------:|
+|    25x     |   15x   |     14x     |     🥇5x     |
 
-**🔥 Overall Placement Rate:** `87%`  
-Consistently placing in competitive national tech events.
+### 🔥 Overall Placement Rate: `87%`
+> _Consistently placing in competitive national tech events._
 
----
+</div>
 
-## 🌍 Connect With Me
-- Always open to collaboration and large-scale engineering projects   
-- 📧 Email: **parejasarronkian@gmail.com**
+<!-- WAVE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
 
----
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="30"> GitHub Stats & Streaks
 
-## 📊 GitHub Stats
+<div align="center">
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darknecrocities&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darknecrocities&layout=donut&theme=radical) |
-|:-----------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=darknecrocities&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darknecrocities&layout=donut&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117" />
 
----
+<br/>
 
-## 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=darknecrocities&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=darknecrocities&theme=radical&hide_border=true&border_radius=15&background=0D1117)](https://git.io/streak-stats)
 
----
+</div>
+
+<!-- WAVE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
 
 ## 🏅 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=darknecrocities&theme=onedark&margin-w=10&no-bg=true)
 
----
+<div align="center">
 
-## 👨‍💻 Tech Stack & Tools
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=darknecrocities&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7)
+
+</div>
+
+<!-- WAVE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack & Tools
 
 ### 🧠 Core Languages
 <p align="center">
@@ -72,8 +103,6 @@ Consistently placing in competitive national tech events.
   <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
 </p>
 
----
-
 ### 🌐 Web Development
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -88,8 +117,6 @@ Consistently placing in competitive national tech events.
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
----
-
 ### ⚙️ Backend / Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -101,8 +128,6 @@ Consistently placing in competitive national tech events.
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 
----
-
 ### 🗄️ Databases
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -111,8 +136,6 @@ Consistently placing in competitive national tech events.
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
-
----
 
 ### ☁️ Cloud & DevOps
 <p align="center">
@@ -126,8 +149,6 @@ Consistently placing in competitive national tech events.
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
 </p>
 
----
-
 ### 🧠 AI / Data Science
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=white" />
@@ -139,18 +160,39 @@ Consistently placing in competitive national tech events.
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
----
+<!-- WAVE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
 
 ## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darknecrocities&theme=react-dark&hide_border=true)
 
----
+<div align="center">
 
-## 👁️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=darknecrocities&color=brightgreen)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darknecrocities&theme=react-dark&hide_border=true&bg_color=0D1117&line=F75C7E&point=FFFFFF&area=true&area_color=F75C7E)
 
----
+</div>
+
+<!-- WAVE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<!-- WAVE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
 
 ## 🏆 Achievements
-![Trophies](https://img.shields.io/badge/Trophies%20Earned-10-green)
+
+<div align="center">
+
+![Trophies](https://img.shields.io/badge/Trophies%20Earned-10-green?style=for-the-badge)
+
+</div>
+
+<!-- ANIMATED FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
