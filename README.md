@@ -7,9 +7,10 @@
 <img src="https://github.com/darknecrocities/darknecrocities/blob/main/githubBanner.png" width="100%" />
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%94%A5+Turning+Data+Into+Intelligence;%E2%9A%A1+Engineering+Systems+That+Push+Boundaries;%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%94%A5+Turning+Data+Into+Intelligence<br>%E2%9A%A1+Engineering+Systems+That+Push+Boundaries<br>%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+</a>
 
-/n
 <br/>
 
 <!-- SOCIAL BADGES -->
