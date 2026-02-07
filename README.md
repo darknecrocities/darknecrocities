@@ -11,8 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%94%A5+Turning+Data+Into+Intelligence<br>%E2%9A%A1+Engineering+Systems+That+Push+Boundaries<br>%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 </a>
 
-<br/>
-
 <!-- SOCIAL BADGES -->
 [![Email](https://img.shields.io/badge/Email-parejasarronkian%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parejasarronkian@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-darknecrocities-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darknecrocities)
