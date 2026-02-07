@@ -78,14 +78,9 @@ I am a **Software Engineer**, **AI/ML Engineer**, and **Data Engineer** dedicate
 
 <div align="center">
 
-<!-- GitHub Stats -->
-![Darknecrocities's GitHub stats](https://github-readme-stats.vercel.app/api?username=darknecrocities&show_icons=true&theme=radical)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darknecrocities&layout=compact&theme=radical)
-
-<!-- Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darknecrocities&theme=radical)
+![Commits](https://img.shields.io/badge/Commits-1500-blue?style=for-the-badge&logo=github)
+![PRs](https://img.shields.io/badge/PRs-120-green?style=for-the-badge&logo=github)
+![Issues](https://img.shields.io/badge/Issues-80-red?style=for-the-badge&logo=github)
 
 
 </div>
