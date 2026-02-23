@@ -52,7 +52,7 @@ I am a **Software Engineer**, **AI/ML Engineer**, and **Data Engineer** dedicate
 
 | 🏟️ Joined | 🏆 Wins | 🥈 Finalist | 🥇 Champion |
 |:----------:|:-------:|:-----------:|:------------:|
-|    25x     |   15x   |     14x     |     🥇5x     |
+|    25x     |   15x   |     15x     |     🥇5x     |
 
 ### 🔥 Overall Placement Rate: `87%`
 > _Consistently placing in competitive national and world level tech events._
