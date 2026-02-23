@@ -225,7 +225,7 @@ I am a **Software Engineer**, **AI/ML Engineer**, and **Data Engineer** dedicate
 
 <div align="center">
 
-![Trophies](https://img.shields.io/badge/Trophies%20Earned-10-green?style=for-the-badge)
+![Trophies](https://img.shields.io/badge/Trophies%20Earned-33-green?style=for-the-badge)
 
 </div>
 
