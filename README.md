@@ -82,9 +82,9 @@ I am a **Software Engineer**, **AI/ML Engineer**, and **Data Engineer** dedicate
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/Commits-1500-blue?style=for-the-badge&logo=github)
-![PRs](https://img.shields.io/badge/PRs-120-green?style=for-the-badge&logo=github)
-![Issues](https://img.shields.io/badge/Issues-80-red?style=for-the-badge&logo=github)
+![Commits](https://img.shields.io/badge/Commits-5500-blue?style=for-the-badge&logo=github)
+![PRs](https://img.shields.io/badge/PRs-520-green?style=for-the-badge&logo=github)
+![Issues](https://img.shields.io/badge/Issues-460-red?style=for-the-badge&logo=github)
 
 
 </div>
