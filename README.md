@@ -182,6 +182,20 @@ I am a **Software Engineer**, **AI/ML Engineer**, and **Data Engineer** dedicate
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
+### 🛠️ AI & Development Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-OpenAI%20Assistant-10A37F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude-Anthropic%20AI-6B4EFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blackbox-AI%20Coding%20Assistant-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenClaw-AI%20Agent%20Framework-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Antigravity-Autonomous%20Dev%20Environment-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Pair%20Programmer-24292E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-Google%20AI-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HuggingFace-Model%20Hub-FFCC4D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-AI%20Orchestration-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-Local%20LLM%20Runtime-111111?style=for-the-badge" />
+</p>
+
 <!-- WAVE DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
 
