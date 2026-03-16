@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arron%20Kian%20Parejas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI/ML%20Engineer%20%7C%20Data%20Engineer&descSize=18&descAlignY=52&descColor=fff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arron%20Kian%20Parejas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI/ML%20Engineer%20%7C%20FullStack%20Engineer&descSize=18&descAlignY=52&descColor=fff" width="100%" />
 
 <!-- BANNER -->
 
@@ -29,7 +29,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-I am a **Software Engineer**, **AI/ML Engineer**, and **Data Engineer** dedicated to building high-impact systems across analytics, automation, and full-stack development. I specialize in transforming data into intelligence, crafting scalable architectures, and engineering solutions that push boundaries.
+I am a **Software Engineer**, **AI/ML Engineer**, and **FullStack Engineer** dedicated to building high-impact systems across analytics, automation, and full-stack development. I specialize in transforming data into intelligence, crafting scalable architectures, and engineering solutions that push boundaries.
 
 - 🔭 **Software Engineering** — building secure, scalable, production-grade applications
 - 🤖 **AI/ML Engineering** — deploying intelligent models and automation systems
