@@ -55,7 +55,7 @@ I am a **Software Engineer**, **AI/ML Engineer**, and **FullStack Engineer** ded
 
 | 🏟️ Joined | 🏆 Wins | 🥈 Finalist | 🥇 Champion |
 |:----------:|:-------:|:-----------:|:------------:|
-|    25x     |   15x   |     15x     |     🥇5x     |
+|    29x     |   15x   |     15x     |     🥇7x     |
 
 ### 🔥 Overall Placement Rate: `87%`
 > _Consistently placing in competitive national and world level tech events._
