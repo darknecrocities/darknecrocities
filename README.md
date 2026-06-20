@@ -33,8 +33,12 @@
 </div>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3600&pause=900&color=FF1E1E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=110&lines=%F0%9F%91%91+Final+Boss+Mode%3A+Activated;%F0%9F%94%A5+Red+%26+Black+Builds%2C+Zero+Fear;%E2%9A%94%EF%B8%8F+Shipping+Elite+Systems+at+Scale" alt="Typing SVG" /></a> 
-
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1200&color=FF1E1E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=110&lines=AI+Software+Engineer;Designing+and+Deploying+AI+Solutions;Full-Stack+Development+%E2%80%A2+Systems+Engineering"
+    alt="Typing SVG"
+  />
+</a>
 <br/>
 
 <!-- SOCIAL BADGES -->
