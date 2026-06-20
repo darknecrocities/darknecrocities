@@ -1,42 +1,20 @@
 <div align="center">
 
-<!-- MAIN HEADER (CLEAN + STRONG) -->
-<img
-  src="https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=DARKNECROCITIES&fontSize=62&fontColor=ff2b2b&animation=fadeIn&stroke=ff0000&strokeWidth=1.2&fontAlignY=40&desc=AI%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20AI%20Systems&descSize=20&descAlignY=63&descColor=d0d0d0&color=0:000000,40:120000,100:8b0000"
-  width="100%"
-/>
-
-<!-- SINGLE MOTION LINE (PROFESSIONAL) -->
-<img
-  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=1200&color=FF2B2B&center=true&vCenter=true&width=900&lines=Building+AI+Systems+for+Real-World+Applications;Full-Stack+Engineering+%E2%80%A2+Machine+Learning+%E2%80%A2+Deployment;Designing+Scalable+Intelligent+Software"
-/>
-
-<br><br>
-
-<!-- BANNER (KEEP ONLY IF IT ADDS VALUE) -->
-<img
-  src="https://github.com/darknecrocities/darknecrocities/blob/main/githubBanner.png"
-  width="100%"
-/>
-
-</div>
-
-<!-- STATUS BADGES -->
-<img src="https://img.shields.io/badge/AI_ENGINEER-FF2B2B?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d0d0d" />
-
-<img src="https://img.shields.io/badge/FULL_STACK_ENGINEER-B30000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" />
-
-<img src="https://img.shields.io/badge/BUILDING_INTELLIGENT_SYSTEMS-660000?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d" />
-
-</div>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arron%20Kian%20Parejas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI/ML%20Engineer%20%7C%20FullStack%20Engineer&descSize=18&descAlignY=52&descColor=fff" width="100%" />
 
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1200&color=FF1E1E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=110&lines=AI+Software+Engineer;Designing+and+Deploying+AI+Solutions;Full-Stack+Development+%E2%80%A2+Systems+Engineering"
-    alt="Typing SVG"
-  />
-</a>
+
+<!-- BANNER -->
+
+
+<img src="https://github.com/darknecrocities/darknecrocities/blob/main/githubBanner.png" width="100%" />
+
+<!-- TYPING SVG -->
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=110&lines=%F0%9F%94%A5+Turning+Data+Into+Intelligence;%E2%9A%A1+Engineering+Systems+That+Push+Boundaries;%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" /></a> 
+
 <br/>
 
 <!-- SOCIAL BADGES -->
