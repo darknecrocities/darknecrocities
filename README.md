@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arron%20Kian%20Parejas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI/ML%20Engineer%20%7C%20FullStack%20Engineer&descSize=18&descAlignY=52&descColor=fff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&section=header&text=darknecrocities&fontSize=56&fontColor=ff2b2b&animation=fadeIn&stroke=ff0000&strokeWidth=1&fontAlignY=40&desc=Final%20Boss%20Engineer%20%E2%80%A2%20AI%20%7C%20FullStack%20%7C%20Systems&descSize=20&descAlignY=62&descColor=d1d1d1&color=0:000000,45:120000,100:8b0000" width="100%" />
 
 
 
@@ -13,7 +13,7 @@
 <!-- TYPING SVG -->
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=110&lines=%F0%9F%94%A5+Turning+Data+Into+Intelligence;%E2%9A%A1+Engineering+Systems+That+Push+Boundaries;%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3600&pause=900&color=FF1E1E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=110&lines=%F0%9F%91%91+Final+Boss+Mode%3A+Activated;%F0%9F%94%A5+Red+%26+Black+Builds%2C+Zero+Fear;%E2%9A%94%EF%B8%8F+Shipping+Elite+Systems+at+Scale" alt="Typing SVG" /></a> 
 
 <br/>
 
@@ -233,4 +233,3 @@ I am a **Software Engineer**, **AI/ML Engineer**, and **FullStack Engineer** ded
 
 <!-- ANIMATED FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
-
