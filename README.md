@@ -1,27 +1,25 @@
 <div align="center">
 
-<!-- FINAL BOSS HEADER -->
+<!-- MAIN HEADER (CLEAN + STRONG) -->
 <img
-  src="https://capsule-render.vercel.app/api?type=venom&height=320&section=header&text=DARKNECROCITIES&fontSize=64&fontColor=ff3b3b&animation=fadeIn&stroke=ff0000&strokeWidth=1.5&fontAlignY=38&desc=AI%20Software%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Full-Stack%20Engineer&descSize=22&descAlignY=62&descColor=e5e5e5&color=0:000000,45:140000,100:8b0000"
+  src="https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=DARKNECROCITIES&fontSize=62&fontColor=ff2b2b&animation=fadeIn&stroke=ff0000&strokeWidth=1.2&fontAlignY=40&desc=AI%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20AI%20Systems&descSize=20&descAlignY=63&descColor=d0d0d0&color=0:000000,40:120000,100:8b0000"
   width="100%"
 />
 
-<!-- ANIMATED TYPING INTRO -->
+<!-- SINGLE MOTION LINE (PROFESSIONAL) -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1200&color=FF2B2B&center=true&vCenter=true&width=900&lines=Architecting+Intelligent+Systems;Building+AI+Products+at+Scale;From+Neural+Networks+to+Production;Status%3A+FINAL_BOSS_MODE"
-  alt="Typing Animation"
+  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=1200&color=FF2B2B&center=true&vCenter=true&width=900&lines=Building+AI+Systems+for+Real-World+Applications;Full-Stack+Engineering+%E2%80%A2+Machine+Learning+%E2%80%A2+Deployment;Designing+Scalable+Intelligent+Software"
 />
 
 <br><br>
 
-<!-- CUSTOM BANNER -->
+<!-- BANNER (KEEP ONLY IF IT ADDS VALUE) -->
 <img
   src="https://github.com/darknecrocities/darknecrocities/blob/main/githubBanner.png"
-  alt="GitHub Banner"
   width="100%"
 />
 
-<br><br>
+</div>
 
 <!-- STATUS BADGES -->
 <img src="https://img.shields.io/badge/AI_ENGINEER-FF2B2B?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d0d0d" />
