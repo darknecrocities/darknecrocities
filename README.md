@@ -1,16 +1,36 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&section=header&text=darknecrocities&fontSize=56&fontColor=ff2b2b&animation=fadeIn&stroke=ff0000&strokeWidth=1&fontAlignY=40&desc=Final%20Boss%20Engineer%20%E2%80%A2%20AI%20%7C%20FullStack%20%7C%20Systems&descSize=20&descAlignY=62&descColor=d1d1d1&color=0:000000,45:120000,100:8b0000" width="100%" />
+<!-- FINAL BOSS HEADER -->
+<img
+  src="https://capsule-render.vercel.app/api?type=venom&height=320&section=header&text=DARKNECROCITIES&fontSize=64&fontColor=ff3b3b&animation=fadeIn&stroke=ff0000&strokeWidth=1.5&fontAlignY=38&desc=AI%20Software%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Full-Stack%20Engineer&descSize=22&descAlignY=62&descColor=e5e5e5&color=0:000000,45:140000,100:8b0000"
+  width="100%"
+/>
 
+<!-- ANIMATED TYPING INTRO -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1200&color=FF2B2B&center=true&vCenter=true&width=900&lines=Architecting+Intelligent+Systems;Building+AI+Products+at+Scale;From+Neural+Networks+to+Production;Status%3A+FINAL_BOSS_MODE"
+  alt="Typing Animation"
+/>
 
+<br><br>
 
-<!-- BANNER -->
+<!-- CUSTOM BANNER -->
+<img
+  src="https://github.com/darknecrocities/darknecrocities/blob/main/githubBanner.png"
+  alt="GitHub Banner"
+  width="100%"
+/>
 
+<br><br>
 
-<img src="https://github.com/darknecrocities/darknecrocities/blob/main/githubBanner.png" width="100%" />
+<!-- STATUS BADGES -->
+<img src="https://img.shields.io/badge/AI_ENGINEER-FF2B2B?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d0d0d" />
 
-<!-- TYPING SVG -->
+<img src="https://img.shields.io/badge/FULL_STACK_ENGINEER-B30000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" />
+
+<img src="https://img.shields.io/badge/BUILDING_INTELLIGENT_SYSTEMS-660000?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d" />
+
+</div>
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3600&pause=900&color=FF1E1E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=110&lines=%F0%9F%91%91+Final+Boss+Mode%3A+Activated;%F0%9F%94%A5+Red+%26+Black+Builds%2C+Zero+Fear;%E2%9A%94%EF%B8%8F+Shipping+Elite+Systems+at+Scale" alt="Typing SVG" /></a> 
