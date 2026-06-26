@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arron%20Kian%20Parejas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI/ML%20Engineer%20%7C%20FullStack%20Engineer&descSize=18&descAlignY=52&descColor=fff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0b&height=180&section=header&text=Arron%20Kian%20Parejas&fontSize=42&fontColor=ff3333&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI/ML%20Engineer%20%7C%20FullStack%20Engineer&descSize=18&descAlignY=52&descColor=ffffff" width="100%" />
 
 
 
@@ -13,7 +13,7 @@
 <!-- TYPING SVG -->
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=110&lines=%F0%9F%94%A5+Turning+Data+Into+Intelligence;%E2%9A%A1+Engineering+Systems+That+Push+Boundaries;%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=ff3333&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=110&lines=%F0%9F%94%A5+Turning+Data+Into+Intelligence;%E2%9A%A1+Engineering+Systems+That+Push+Boundaries;%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" /></a> 
 
 <br/>
 
@@ -25,7 +25,7 @@
 </div>
 
 <!-- WAVE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2" width="100%" />
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
@@ -42,7 +42,7 @@ I am a **Software Engineer**, **AI/ML Engineer**, and **FullStack Engineer** ded
 <br clear="both"/>
 
 <!-- WAVE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2" width="100%" />
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Top GitHub User (PH) & Hackathon Performance
 
@@ -62,23 +62,23 @@ I am a **Software Engineer**, **AI/ML Engineer**, and **FullStack Engineer** ded
 </div>
 
 <!-- WAVE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2" width="100%" />
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="30"> GitHub Stats & Streaks
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=darknecrocities&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darknecrocities&layout=donut&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=darknecrocities&show_icons=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=ff3333&text_color=ffffff&icon_color=ff3333" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darknecrocities&layout=donut&hide_border=true&border_radius=15&bg_color=0D1117&title_color=ff3333&text_color=ffffff" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=darknecrocities&theme=radical&hide_border=true&border_radius=15&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=darknecrocities&hide_border=true&border_radius=15&background=0D1117&ring=ff3333&fire=ff3333&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff3333&sideLabels=ff3333&dates=ffffff)](https://git.io/streak-stats)
 
 </div>
 
 <!-- WAVE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2" width="100%" />
 
 ## 🏅 GitHub Trophies
 
@@ -92,7 +92,7 @@ I am a **Software Engineer**, **AI/ML Engineer**, and **FullStack Engineer** ded
 </div>
 
 <!-- WAVE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2" width="100%" />
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack & Tools
 
@@ -199,18 +199,18 @@ I am a **Software Engineer**, **AI/ML Engineer**, and **FullStack Engineer** ded
 </p>
 
 <!-- WAVE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2" width="100%" />
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darknecrocities&theme=react-dark&hide_border=true&bg_color=0D1117&line=F75C7E&point=FFFFFF&area=true&area_color=F75C7E)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darknecrocities&hide_border=true&bg_color=0D1117&line=ff3333&point=FFFFFF&area=true&area_color=ff3333&color=ffffff&title_color=ff3333)
 
 </div>
 
 <!-- WAVE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2" width="100%" />
 
 ## 💡 Random Dev Quote
 
@@ -221,7 +221,7 @@ I am a **Software Engineer**, **AI/ML Engineer**, and **FullStack Engineer** ded
 </div>
 
 <!-- WAVE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2" width="100%" />
 
 ## 🏆 Achievements
 
@@ -232,4 +232,4 @@ I am a **Software Engineer**, **AI/ML Engineer**, and **FullStack Engineer** ded
 </div>
 
 <!-- ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0b&height=120&section=footer" width="100%" />
