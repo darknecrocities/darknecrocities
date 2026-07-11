@@ -201,17 +201,6 @@ I am a **Software Engineer**, **AI/ML Engineer**, and **FullStack Engineer** ded
 <!-- WAVE DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2" width="100%" />
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darknecrocities&hide_border=true&bg_color=0D1117&line=ff3333&point=FFFFFF&area=true&area_color=ff3333&color=ffffff&title_color=ff3333)
-
-</div>
-
-<!-- WAVE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2" width="100%" />
-
 ## 💡 Random Dev Quote
 
 <div align="center">
