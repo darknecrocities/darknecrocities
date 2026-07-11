@@ -209,16 +209,5 @@ I am a **Software Engineer**, **AI/ML Engineer**, and **FullStack Engineer** ded
 
 </div>
 
-<!-- WAVE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2" width="100%" />
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophies](https://img.shields.io/badge/Trophies%20Earned-33-green?style=for-the-badge)
-
-</div>
-
 <!-- ANIMATED FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0b&height=120&section=footer" width="100%" />
