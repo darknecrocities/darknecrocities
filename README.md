@@ -31,7 +31,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-I am a **Software Engineer**, **AI/ML Engineer**, and **FullStack Engineer** dedicated to building high-impact systems across analytics, automation, and full-stack development. I specialize in transforming data into intelligence, crafting scalable architectures, and engineering solutions that push boundaries.
+I am into **Software Engineer**, **AI/ML Engineer**, and **FullStack Engineer** dedicated to building high-impact systems across analytics, automation, and full-stack development. I specialize in transforming data into intelligence, crafting scalable architectures, and engineering solutions that push boundaries.
 
 - 🔭 **Software Engineering** — building secure, scalable, production-grade applications
 - 🤖 **AI/ML Engineering** — deploying intelligent models and automation systems
