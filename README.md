@@ -4,7 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0b&height=180&section=header&text=Arron%20Kian%20Parejas&fontSize=42&fontColor=ff3333&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI/ML%20Engineer%20%7C%20FullStack%20Engineer&descSize=18&descAlignY=52&descColor=ffffff" width="100%" />
 
 
-
 <!-- BANNER -->
 
 
