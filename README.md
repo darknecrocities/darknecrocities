@@ -5,7 +5,6 @@
 
 <!-- BANNER -->
 
-
 <img src="https://github.com/darknecrocities/darknecrocities/blob/main/githubBanner.png?v=20260626" width="100%" />
 
 <!-- TYPING SVG -->
