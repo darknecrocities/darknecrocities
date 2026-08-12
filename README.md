@@ -52,7 +52,6 @@ I am into **Software Engineer**, **AI/ML Engineer**, and **FullStack Engineer** 
 |:----------:|:-------:|:-----------:|:------------:|
 |    35x     |   15x   |     10x     |     🥇7x     |
 
-### 🔥 Overall Placement Rate: `87%`
 > _Consistently placing in competitive national and world level tech events._
 
 </div>
