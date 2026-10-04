@@ -26,11 +26,11 @@
 
 I am into **Software Engineer**, **AI/ML Engineer**, and **FullStack Engineer** dedicated to building high-impact systems across analytics, automation, and full-stack development. I specialize in transforming data into intelligence, crafting scalable architectures, and engineering solutions that push boundaries.
 
-- 🔭 **Software Engineering** — building secure, scalable, production-grade applications
-- 🤖 **AI/ML Engineering** — deploying intelligent models and automation systems
-- 📊 **Data Engineering** — designing pipelines, ETL systems, and cloud-based data workflows
-- 🌐 **Full-Stack Development** — creating complete, performance-driven web apps
-- 💬 Always open to **collaboration** and large-scale engineering projects
+- **Software Engineering** — building secure, scalable, production-grade applications
+- **AI/ML Engineering** — deploying intelligent models and automation systems
+- **AI/ML Researcher** — Experienced Researcher various Models and Techniques to enchanced the performance.
+- **Full-Stack Development** — creating complete, performance-driven web apps
+- Always open to **collaboration** and large-scale engineering projects
 
 <br clear="both"/>
 
