@@ -47,7 +47,7 @@ I am into **Software Engineer**, **AI/ML Engineer**, and **FullStack Engineer** 
 
 | 🏟️ Joined | 🏆 Placement | 🥈 Finalist | 🥇 Champion |
 |:----------:|:-------:|:-----------:|:------------:|
-|    35x     |   15x   |     10x     |     🥇7x     |
+|    35x     |   17x   |     10x     |     🥇7x     |
 
 > _Consistently placing in competitive national and world level tech events._
 
