@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0b&height=180&section=header&text=Arron%20Kian%20Parejas&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI/ML%20Engineer%20%7C%20FullStack%20Engineer&descSize=18&descAlignY=52&descColor=ffffff" width="100%" />
 
 <!-- BANNER -->
-
 <img src="https://github.com/darknecrocities/darknecrocities/blob/main/ascii-magic-1.png?v=20260626" width="100%" />
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=110&lines=%F0%9F%94%A5+Turning+Data+Into+Intelligence;%E2%9A%A1+Engineering+Systems+That+Push+Boundaries;%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" /></a>
