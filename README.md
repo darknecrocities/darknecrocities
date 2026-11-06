@@ -1,204 +1,209 @@
+```text
+┌─────────────────────────────────────────────────────────────────┐
+│   _    ____  ____   ___  _   _   _  _____    _    _   _         │
+│  / \  |  _ \|  _ \ / _ \| \ | | | |/ /_ _|  / \  | \ | |        │
+│ / _ \ | |_) | |_) | | | |  \| | | ' / | |  / _ \ |  \| |        │
+│/ ___ \|  _ <|  _ <| |_| | |\  | | . \ | | / ___ \| |\  |        │
+│/_/   \_\_| \_\_| \_\___/|_| \_| |_|\_\___|/_/   \_\_| \_|       │
+│                                                                 │
+│  Arron Kian Parejas                                             │
+│  Software Engineer · AI/ML Engineer · FullStack Engineer        │
+└─────────────────────────────────────────────────────────────────┘
+```
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0b&height=180&section=header&text=Arron%20Kian%20Parejas&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI/ML%20Engineer%20%7C%20FullStack%20Engineer&descSize=18&descAlignY=52&descColor=ffffff" width="100%" />
-
-<!-- BANNER -->
-<img src="https://github.com/darknecrocities/darknecrocities/blob/main/ascii-magic-1.png?v=20260626" width="100%" />
-<!-- TYPING SVG -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=110&lines=%F0%9F%94%A5+Turning+Data+Into+Intelligence;%E2%9A%A1+Engineering+Systems+That+Push+Boundaries;%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=50&lines=%3E+Turning+Data+Into+Intelligence;%3E+Engineering+Systems+That+Push+Boundaries;%3E+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+</a>
 
 <br/>
-<!-- SOCIAL BADGES -->
-[![Email](https://img.shields.io/badge/Email-parejasarronkian%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parejasarronkian@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-darknecrocities-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darknecrocities)
-[![Profile Views](https://komarev.com/ghpvc/?username=darknecrocities&style=for-the-badge&color=blueviolet)](https://github.com/darknecrocities)
+
+[![Email](https://img.shields.io/badge/Email-parejasarronkian%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=white)](mailto:parejasarronkian@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-darknecrocities-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/darknecrocities)
+[![Profile Views](https://komarev.com/ghpvc/?username=darknecrocities&style=flat-square&color=0D1117&labelColor=161B22)](https://github.com/darknecrocities)
 
 </div>
 
-<!-- WAVE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2" width="100%" />
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+## ❯ 01 // ABOUT ME
 
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+```bash
+$ cat /etc/profile.d/about.txt
+```
 
-I am into **Software Engineer**, **AI/ML Engineer**, and **FullStack Engineer** dedicated to building high-impact systems across analytics, automation, and full-stack development. I specialize in transforming data into intelligence, crafting scalable architectures, and engineering solutions that push boundaries.
+I am a **Software Engineer**, **AI/ML Engineer**, and **FullStack Engineer** dedicated to building high-impact systems across analytics, automation, and full-stack development. I specialize in transforming data into intelligence, crafting scalable architectures, and engineering solutions that push boundaries.
 
-- **Software Engineering** — building secure, scalable, production-grade applications
-- **AI/ML Engineering** — deploying intelligent models and automation systems
-- **AI/ML Researcher** — Experienced Researcher various Models and Techniques to enchanced the performance.
-- **Full-Stack Development** — creating complete, performance-driven web apps
+- `Software Engineering` — building secure, scalable, production-grade applications
+- `AI/ML Engineering` — deploying intelligent models and automation systems
+- `AI/ML Researcher` — experienced researcher across various models and techniques to enhance performance
+- `Full-Stack Development` — creating complete, performance-driven web apps
 - Always open to **collaboration** and large-scale engineering projects
 
-<br clear="both"/>
+---
 
-<!-- WAVE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2" width="100%" />
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Top GitHub User (PH) & Hackathon Performance
+## ❯ 02 // PERFORMANCE & RANKINGS
 
 <div align="center">
 
 [![committers.top badge](https://user-badge.committers.top/philippines_public/darknecrocities.svg)](https://user-badge.committers.top/philippines_public/darknecrocities)
 
-<br/>
+<br/><br/>
 
-| 🏟️ Joined | 🏆 Placement | 🥈 Finalist | 🥇 Champion |
-|:----------:|:-------:|:-----------:|:------------:|
-|    35x     |   17x   |     10x     |     🥇7x     |
+| Joined | Placement | Finalist | Champion |
+|:------:|:---------:|:--------:|:--------:|
+| 35x | 17x | 10x | 7x |
+
+<br/>
 
 > _Consistently placing in competitive national and world level tech events._
 
 </div>
 
-<!-- WAVE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2" width="100%" />
+---
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="30"> GitHub Stats & Streaks
+## ❯ 03 // METRICS & ACTIVITY
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=darknecrocities&show_icons=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=ff3333&text_color=ffffff&icon_color=ff3333" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darknecrocities&layout=donut&hide_border=true&border_radius=15&bg_color=0D1117&title_color=ff3333&text_color=ffffff" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-5500-0D1117?style=flat-square&logo=git&logoColor=white" alt="Commits" />
+  <img src="https://img.shields.io/badge/PRs-520-0D1117?style=flat-square&logo=github&logoColor=white" alt="PRs" />
+  <img src="https://img.shields.io/badge/Issues-460-0D1117?style=flat-square&logo=github&logoColor=white" alt="Issues" />
+</p>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=darknecrocities&show_icons=true&hide_border=true&border_radius=8&bg_color=0D1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darknecrocities&layout=donut&hide_border=true&border_radius=8&bg_color=0D1117&title_color=ffffff&text_color=8b949e" alt="Top Languages" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=darknecrocities&hide_border=true&border_radius=15&background=0D1117&ring=ff3333&fire=ff3333&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff3333&sideLabels=ff3333&dates=ffffff)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=darknecrocities&hide_border=true&border_radius=8&background=0D1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+</a>
 
 </div>
 
-<!-- WAVE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2" width="100%" />
+---
 
-## 🏅 GitHub Trophies
+## ❯ 04 // TECH STACK
+
+### ❯ /usr/bin/languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Assembly-0D1117?style=flat-square&logo=assemblyscript&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Swift-0D1117?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Ruby-0D1117?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/Haskell-0D1117?style=flat-square&logo=haskell&logoColor=white" alt="Haskell" />
+  <img src="https://img.shields.io/badge/Scala-0D1117?style=flat-square&logo=scala&logoColor=white" alt="Scala" />
+</p>
+
+### ❯ /opt/mobile
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Swift-0D1117?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Android-0D1117?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-0D1117?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-0D1117?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Xamarin-0D1117?style=flat-square&logo=xamarin&logoColor=white" alt="Xamarin" />
+  <img src="https://img.shields.io/badge/Ionic-0D1117?style=flat-square&logo=ionic&logoColor=white" alt="Ionic" />
+</p>
+
+### ❯ /srv/frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Angular-0D1117?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Vue.js-0D1117?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Svelte-0D1117?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
+  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+</p>
+
+### ❯ /var/backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/GraphQL-0D1117?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
+
+### ❯ /var/data/databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+### ❯ /etc/cloud-devops
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Nginx-0D1117?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Jenkins-0D1117?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Ansible-0D1117?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+</p>
+
+### ❯ /opt/ai-data-science
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI%20API-0D1117?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Gemini%20API-0D1117?style=flat-square&logo=google&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/Cohere%20API-0D1117?style=flat-square&logo=cohere&logoColor=white" alt="Cohere API" />
+  <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+### ❯ /usr/local/ai-tools
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-0D1117?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Blackbox-0D1117?style=flat-square&logo=terminal&logoColor=white" alt="Blackbox" />
+  <img src="https://img.shields.io/badge/OpenClaw-0D1117?style=flat-square&logo=robotframework&logoColor=white" alt="OpenClaw" />
+  <img src="https://img.shields.io/badge/Antigravity-0D1117?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-0D1117?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+</p>
+
+---
+
+## ❯ 05 // SYSTEM QUOTE
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/Commits-5500-blue?style=for-the-badge&logo=github)
-![PRs](https://img.shields.io/badge/PRs-520-green?style=for-the-badge&logo=github)
-![Issues](https://img.shields.io/badge/Issues-460-red?style=for-the-badge&logo=github)
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
-<!-- WAVE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2" width="100%" />
+<br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack & Tools
-
-### 🧠 Core Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-6F4F37?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-701516?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
-</p>
-
-### 📱 Mobile Development
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
-</p>
-
-### 🌐 Web Development
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
-
-### ⚙️ Backend / Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-</p>
-
-### 🧠 AI / Data Science
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-0E3A8C?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cohere_API-5334C9?style=for-the-badge&logo=cohere&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
-### 🛠️ AI & Development Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-OpenAI%20Assistant-10A37F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Claude-Anthropic%20AI-6B4EFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blackbox-AI%20Coding%20Assistant-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenClaw-AI%20Agent%20Framework-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Antigravity-Autonomous%20Dev%20Environment-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Pair%20Programmer-24292E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gemini-Google%20AI-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HuggingFace-Model%20Hub-FFCC4D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-AI%20Orchestration-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ollama-Local%20LLM%20Runtime-111111?style=for-the-badge" />
-</p>
-
-<!-- WAVE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3333&height=2" width="100%" />
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
-<!-- ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0b&height=120&section=footer" width="100%" />
+```text
+─────────────────────────────────────────────────────────────────
+[EOF] · darknecrocities/darknecrocities · end of transmission
+─────────────────────────────────────────────────────────────────
+```
