@@ -26,7 +26,7 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=45&lines=%3E+Turning+Data+Into+Intelligence;%3E+Engineering+Systems+That+Push+Boundaries;%3E+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%3E+Turning+Data+Into+Intelligence;%3E+Engineering+Systems+That+Push+Boundaries;%3E+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 </a>
 
 <br/>
