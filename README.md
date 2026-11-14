@@ -37,7 +37,6 @@
 <br>
 </br>
 <br/>
-
 <p align="center">
   <a href="https://arronparejas.dev"><img src="https://img.shields.io/badge/Portfolio-arronparejas.dev-21262D?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:parejasarronkian@gmail.com"><img src="https://img.shields.io/badge/Email-parejasarronkian%40gmail.com-21262D?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
