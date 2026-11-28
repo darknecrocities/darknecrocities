@@ -20,7 +20,6 @@
 ```
 <div align="center">
 <img src="./ascii-magic-1.png" width="100%" alt="Arron Kian Parejas ASCII Banner" />
-
 <br/><br/>
 <br>
 </br>
